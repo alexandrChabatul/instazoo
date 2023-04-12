@@ -1,4 +1,4 @@
-package com.example.instazoo.enttity;
+package com.example.instazoo.entity;
 
 import jakarta.persistence.*;
 import lombok.Data;

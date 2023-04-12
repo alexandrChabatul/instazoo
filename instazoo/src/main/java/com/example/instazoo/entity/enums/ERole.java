@@ -1,4 +1,4 @@
-package com.example.instazoo.enttity.enums;
+package com.example.instazoo.entity.enums;
 
 public enum ERole {
     ROLE_USER,
